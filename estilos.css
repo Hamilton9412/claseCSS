@@ -33,3 +33,13 @@ h1
 {
     background-color: blue;
 }
+.fondoimagen
+{
+    background-image: url(img/Medellin.jpg);
+    height: 700px;
+    background-attachment: fixed;
+}
+.textorojo
+{
+    color: red;
+}
